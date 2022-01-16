@@ -1,4 +1,10 @@
-.text1 {
-    font-size: 100px;
+@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
 
+.text1 {
+    color: gray;
+    font-size: 100px;
+    text-align: center;
+    padding: 1em;
+    font-family: 'Neonderthaw', cursive;
+    
 }
