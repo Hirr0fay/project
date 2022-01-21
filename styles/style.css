@@ -1,10 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&display=swap');
 
 .text1 {
-    color: gray;
-    font-size: 100px;
+    color: grey;
+    display: flex;
+    justify-content: center;
     text-align: center;
+    margin: 0;
     padding: 1em;
-    font-family: 'Neonderthaw', cursive;
-    
+    font-family: "Neonderthaw", cursive;
+    font-size: 5em;
 }
