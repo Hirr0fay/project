@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Sedgwick+Ave&display=swap');
 
+body {
+    margin: 0em;
+    padding: 0em;
+}
+
 .text1 {
     color: gray;
     font-size: 7.5em;
@@ -20,4 +25,12 @@
     border: 0.5rem solid;
     border-radius: 12px;
     padding: 1rem;
+}
+
+img {
+    margin: 3rem 2rem 1rem 2rem;
+    width: 50%;
+    border-radius: 3rem;
+    align-items: center;
+
 }
