@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Sedgwick+Ave&display=swap');
 
 .text1 {
@@ -21,4 +22,17 @@
     border-radius: 12px;
     padding: 1rem;
     
+=======
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&display=swap');
+
+.text1 {
+    color: grey;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+    padding: 1em;
+    font-family: "Neonderthaw", cursive;
+    font-size: 5em;
+>>>>>>> 06f6f6747de19b6f7b2b638c547ea6ca3fe3d149
 }
