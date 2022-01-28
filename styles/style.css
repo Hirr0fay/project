@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Sedgwick+Ave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Neonderthaw&family=Sedgwick+Ave&display=swap');
 
 body {
     margin: 0em;
@@ -22,15 +22,27 @@ body {
     text-align: start;
     margin-right: 4em;
     margin-left: 2em;
+    margin-bottom: 5rem;
     border: 0.5rem solid;
     border-radius: 12px;
     padding: 1rem;
 }
 
-img {
-    margin: 3rem 2rem 1rem 2rem;
+.text3 {
+    color: cadetblue;
+    font-size: 3.5em;
+    font-family: 'Neonderthaw', cursive;
+    text-align: center;
+
+}
+
+.images {
+    margin-top: 10px;
+    margin-bottom: 3rem;
+    margin-left: auto;
+    margin-right: auto;
     width: 50%;
     border-radius: 3rem;
-    align-items: center;
+    display: block;
 
 }
